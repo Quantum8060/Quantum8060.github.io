@@ -1,11 +1,14 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Quantom's API Document</title>
+    <title>API Endpoint</title>
   </head>
   <body>
-    <h1>
-      null message
-    </h1>
+    <h1>API Endpoint</h1>
+    <script>
+      fetch('/api/user')
+        .then(response => response.json())
+        .then(data => console.log(data));
+    </script>
   </body>
 </html>

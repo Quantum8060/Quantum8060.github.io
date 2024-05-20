@@ -1,0 +1,5 @@
+{
+  "/api/blacklist/:id": "blacklist.js",
+  "/api/posts": "posts.js",
+  "/api/edit": "edit.js"
+}
