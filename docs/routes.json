@@ -1,3 +1,4 @@
 {
-  "/api/blacklist/:id": "blacklist.js"
+  "/": "index.html",
+  "/api/blacklist/:id": "api/blacklist.js"
 }
