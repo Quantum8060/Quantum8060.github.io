@@ -1,6 +1,6 @@
 {
   "blacklist": [
-    { "name": "John Doe", "email": "john@example.com" },
-    { "name": "Jane Doe", "email": "jane@example.com" }
+    { "id": "0", "email": "john@example.com" },
+    { "id": "1", "email": "jane@example.com" }
   ]
 }
