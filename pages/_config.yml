@@ -1,0 +1,4 @@
+collections:
+  api:
+    output: json
+    permalink: /api/:path
